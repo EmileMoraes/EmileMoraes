@@ -1,5 +1,7 @@
-Hello world 🌎
+Hello world! 🌎
+
 My name is Emile Moraes 🚀
+
 I'm a beginner and passionate about programming and new technologies. I am participating in Bootcamp and training courses in the area of ​​programming.
 - 🌱 I’m currently learning: 
 •Python 
