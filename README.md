@@ -8,7 +8,7 @@ I'm a beginner and passionate about programming and new technologies. I am parti
 •Java 
 • JavaScript 
 • HTML and CSS technologies. 
-- 📫 How to reach me: https://www.linkedin.com/in/emile-de-sousa-moraes-tavares-82a624111
+- 📫 How to reach me: https://www.linkedin.com/in/emile-moraes-82a624111/
 
 <!--
 **EmileMoraes/EmileMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
